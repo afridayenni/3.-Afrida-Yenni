@@ -1,2 +1,2 @@
 # 3.-Afrida-Yenni
-Sistem Informasi Pernikahan
+Sistem Informasi Pernikahan di KUA
